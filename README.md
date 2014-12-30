@@ -1,4 +1,7 @@
 LightroomKeywords
 =================
 
-A class to manipulate Adobe Photoshop Lightroom keywords
+A class to manipulate Adobe Photoshop Lightroom keywords.
+
+For an example of using the library, see 
+https://github.com/ericvaandering/MetadataScripts/blob/master/Photos/FindNoSyns.py
